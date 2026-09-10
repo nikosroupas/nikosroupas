@@ -1,4 +1,4 @@
-## Nikolaos Roupas
+
 
 Systems and network security engineer based in Athens, Greece.
 13 years securing production infrastructure — air-gapped networks,
